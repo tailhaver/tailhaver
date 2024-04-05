@@ -5,7 +5,7 @@ they/them · ele/ela dele/dela
 
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPython 3.11-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Cython 3.12-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
