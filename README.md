@@ -1,5 +1,5 @@
 le epic <a href="https://en.wikipedia.org/wiki/Cross_fox" target="_blank" rel="noopener noreferrer" style="color: #E47335;">cross fox</a> que sabe falar um pouco de português  
-they/them · ele/ela dele/dela
+she/her · ela/dela
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=howlagon&theme=dark" />
 
