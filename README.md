@@ -1,7 +1,7 @@
 le epic <a href="https://en.wikipedia.org/wiki/Cross_fox" target="_blank" rel="noopener noreferrer" style="color: #E47335;">cross fox</a> que sabe falar um pouco de português  
 she/her · ela/dela
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=howlagon&theme=dark" />
+<img src="https://wakapi.dev/api/activity/chart/howlagon.svg?dark&noattr" />
 
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
